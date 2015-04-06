@@ -9,8 +9,8 @@
 7. Abri com o **vim** o arquivo **README.md**;
 8. Inseri no arquivo *README.md** este conteudo;
 9. Executei:
-   * git init
-   * git commit -a -m "Commit de criação do projeto001"
-   * git remote add origin https:/github.com/MauroFM/projeto001.git;   Respondeu que já existia;
-   * git push -u origin master;   Pediu usuario e senha; eu coloquei;
+   * **git init**
+   * **git commit -a -m "Commit de criação do projeto001"**
+   * **git remote add origin https:/github.com/MauroFM/projeto001.git**;   Respondeu que já existia;
+   * **git push -u origin master**;   Pediu usuario e senha; eu coloquei;
 10. Fiz algumas alteracoes;
