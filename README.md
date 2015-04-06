@@ -10,5 +10,5 @@
    * git commit -m "Commit de criação do projeto001"
    * git remote add origin https:/github.com/MauroFM/projeto001.git
    * git push -u origin master
-##Apresentou o erro:
+
 
