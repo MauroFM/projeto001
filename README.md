@@ -3,7 +3,7 @@
 1. Criei a pasta **projeto001.git** dentro da pasta de trabalho do meu usuário. No Caso __Curso PHP__, usando:
    * mkdir projeto001.git, para criar a pasta;
    * cd projeto001.git;
-2. Criei o arquivo README.md utilizando o >vim>;
+2. Criei o arquivo README.md utilizando o __vim__;
 3. Executei:
    * git init
    * git add README.md
