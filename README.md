@@ -4,14 +4,13 @@
 2. Criei o repositorio **projeto001**;
 3. Criei o arquivo **README.md** dentro do repositorio **projeto001**
 4. Abri o Git Bash;
-5. Executei o comando **git remote clone https://github.com/MauroFM/Projeto001.git**;
+5. Executei o comando **git clone https://github.com/MauroFM/Projeto001.git**;
 6. Executei o comando **cd projeto001**;
 7. Abri com o **vim** o arquivo **README.md**;
 8. Inseri no arquivo *README.md** este conteudo;
 9. Executei:
    * git init
-   * git add README.md
-   * git commit -m "Commit de criação do projeto001"
-   * git remote add origin https:/github.com/MauroFM/projeto001.git
-   * git push -u origin master
-10. Fiz algumas alteracoes
+   * git commit -a -m "Commit de criação do projeto001"
+   * git remote add origin https:/github.com/MauroFM/projeto001.git;   Respondeu que já existia;
+   * git push -u origin master;   Pediu usuario e senha; eu coloquei;
+10. Fiz algumas alteracoes;
